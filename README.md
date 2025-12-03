@@ -44,7 +44,7 @@ File utama: *main.py*
 
 Program ini tidak memerlukan instalasi library tambahan karena hanya menggunakan pustaka standar Python.
 
-**Panduan Menjalankan Program**
+**Panduan Menjalankan Program** :
 
 Untuk menjalankan program:
 
