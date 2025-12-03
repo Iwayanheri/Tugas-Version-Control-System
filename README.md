@@ -67,3 +67,21 @@ Untuk menjalankan program:
    
 
 Program akan berjalan dan meminta Anda memilih level permainan, kemudian mulai menebak angka.
+
+**Dokumentasi Teknis**
+
+*Flowchart Sistem*
+
+Berikut penjelasan alur program dalam bentuk flowchart:
+<img width="622" height="962" alt="Untitled Diagram drawio" src="https://github.com/user-attachments/assets/2b6ecd00-0adc-4f41-8b22-9f5672dbcd4a" />
+*Penjelasan Singkat:*
+
+- Program dimulai dengan meminta pengguna memilih level permainan.
+- Berdasarkan level, program menentukan rentang angka dan jumlah kesempatan.
+- Program menghasilkan angka acak.
+- Pemain memasukkan tebakan dalam setiap percobaan.
+- Program memberikan petunjuk (“lebih besar” atau “lebih kecil”).
+- Jika tebakan benar atau kesempatan habis, program menampilkan hasil akhir.
+
+  **Daftar Kontributor (Tabel)**
+<img width="695" height="432" alt="Screenshot 2025-12-03 143548" src="https://github.com/user-attachments/assets/1624e95f-c1b2-4769-b6d8-d7760d7eedd0" />
