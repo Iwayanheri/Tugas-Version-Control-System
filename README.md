@@ -3,13 +3,14 @@ Aplikasi Permainan Tebak Angka
 
 **Pendahuluan**  
 Program Tebak Angka merupakan sebuah aplikasi permainan sederhana berbasis Python yang dirancang untuk menguji kemampuan analisis dan logika pemain. Dalam permainan ini, pengguna diminta menebak angka acak yang dihasilkan oleh program berdasarkan tingkat kesulitan yang dipilih. Program ini dibuat sebagai bagian dari Proyek Kolaborasi Python oleh Kelompok HFJK.
-Tujuan dari program ini adalah untuk memberikan pengalaman bermain yang interaktif sambil membantu pengguna—khususnya pemula—untuk memahami konsep dasar pemrograman seperti input/output, percabangan (if-else), perulangan (loop), dan penggunaan modul penyedia angka acak.
+Tujuan dari program ini adalah untuk memberikan pengalaman bermain yang interaktif sambil membantu pengguna khususnya pemula untuk memahami konsep dasar pemrograman seperti input/output, percabangan (if-else), perulangan (loop), dan penggunaan modul penyedia angka acak.
 
 **Fitur Utama**
 1. *Pemilihan Level Permainan*
    - Mudah
    - Sedang
    - Sulit
+   - Sangat Sulit
 
 2. *Pembangkitan Angka Acak*
    Program otomatis menghasilkan angka rahasia sesuai tingkat kesulitan.
