@@ -40,6 +40,30 @@ Jika menggunakan Git : git clone https://github.com/Iwayanheri/Tugas-Version-Con
 cd Tugas-Version-Control-System
 
 4. *Pastikan file program tersedia*
-File utama: *Game HFJK.py*
+File utama: *main.py*
 
 Program ini tidak memerlukan instalasi library tambahan karena hanya menggunakan pustaka standar Python.
+
+**Panduan Menjalankan Program**
+
+Untuk menjalankan program:
+
+1. Buka terminal atau command prompt.
+2. Arahkan ke direktori tempat file *main.py* disimpan.
+
+   
+   cd folder_tempat_file_berada
+   
+3. Jalankan program dengan perintah:
+
+   
+   python main.py
+   
+
+   atau
+
+   
+   python3 main.py
+   
+
+Program akan berjalan dan meminta Anda memilih level permainan, kemudian mulai menebak angka.
